@@ -1,0 +1,7 @@
+{
+  "name": "Muscat Heritage Boutique",
+  "description": "A premium clothing boutique website celebrating local Omani craftsmanship and high-quality fabrics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
